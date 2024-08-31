@@ -7,3 +7,7 @@ The extension assigns a score between 1 and 10 to the recommended videos on your
 [Get Extension](https://chromewebstore.google.com/detail/youtube-popularity-score/epejdmigffebgafpjociinhoefdahgpb)
 
 [Privacy Policy](https://github.com/youtube-popularity-score/privacy-policy)
+
+### Version
+![Version](https://img.shields.io/chrome-web-store/v/epejdmigffebgafpjociinhoefdahgpb?style=flat&logo=googlechrome&logoColor=%23fff&label=&color=%23ff0000)
+
