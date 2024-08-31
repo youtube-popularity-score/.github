@@ -1,5 +1,7 @@
 # 👁️ Youtube Popularity Score
 
+![Youtube Popularity Score](https://raw.githubusercontent.com/youtube-popularity-score/.github/main/profile/logo.png)
+
 #### A plugin that rates the popularity of YouTube videos.
 
 The extension assigns a score between 1 and 10 to the recommended videos on your YouTube homepage based on their popularity, allowing you to quickly access higher-quality videos.
