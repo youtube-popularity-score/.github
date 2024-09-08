@@ -13,3 +13,5 @@ The extension assigns a score between 1 and 10 to the recommended videos on your
 ### Version
 ![Version](https://img.shields.io/chrome-web-store/v/epejdmigffebgafpjociinhoefdahgpb?style=flat&logo=googlechrome&logoColor=%23fff&label=&color=%23ff0000)
 
+### Active User Count
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fyasinkalkan.com%2Fapi%2Fextension%2Fyoutube-popularity-score%2F)
